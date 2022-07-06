@@ -1,4 +1,4 @@
-# CDW
+# CDWM
 
 Cada capítulo contiene un conjunto de ejercicios donde podrás experimentar los conceptos revisados durante la certificación. Cada ejercicio contiene un conjunto de pruebas para validar los conocimentos.
 
